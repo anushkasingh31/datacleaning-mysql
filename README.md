@@ -164,5 +164,3 @@ The cleaned and standardized dataset is available in the `layoffs_staging2` tabl
 - Created a structured, reliable, and analysis-ready dataset through systematic data cleaning.
 - Gained experience in real-world data preparation tasks like duplicate handling, standardizing inconsistent entries, null value management, and date conversions.
 - Reinforced best practices for working with staging tables and preserving data integrity.
-
----
