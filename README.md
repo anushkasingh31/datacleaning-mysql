@@ -25,8 +25,6 @@ The data cleaning process followed a systematic, multi-step workflow:
 
 ---
 
-## Code-Wise Explanation
-
 ### 1. Create a Staging Table
 
 A staging table is created to work on the data safely without affecting the original source table.
